@@ -112,4 +112,3 @@ To grant Accessibility permissions:
 The `README.md` was also updated in the previous step to reflect these changes, including requiring `ibeam.cur` and explaining the new contextual switching behavior.
 
 Both parts of the subtask are complete.
-# mac_cursor
